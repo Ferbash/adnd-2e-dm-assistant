@@ -1,0 +1,73 @@
+{
+  "name": "Rosamund",
+  "race": "Humano",
+  "class": "Ladrón",
+  "level": 1,
+  "experience": 2000,
+  "attributes": {
+    "FUE": 17,
+    "DES": 18,
+    "CON": 14,
+    "INT": 10,
+    "SAB": 12,
+    "CAR": 13
+  },
+  "hit_points_max": 6,
+  "hit_points_current": 6,
+  "armor_class": 4,
+  "thac0": 20,
+  "saving_throws": {
+    "paralisis": 13,
+    "varitas": 14,
+    "petrificacion": 12,
+    "aliento": 16,
+    "conjuros": 15
+  },
+  "skills": {},
+  "proficiencies": {
+    "armas": [
+      "Espada corta",
+      "Daga"
+    ],
+    "no_armas": [
+      "Escalar",
+      "Esconderse",
+      "Moverse sigilosamente"
+    ]
+  },
+  "kit": null,
+  "equipment": [
+    "Espada corta",
+    "Daga",
+    "Armadura de cuero",
+    "Ganzúas",
+    "Cuerda (50 pies)",
+    "Mochila",
+    "Raciones (1 semana)"
+  ],
+  "equipped": {
+    "arma_principal": {
+      "nombre": "Espada corta",
+      "ataque": 3,
+      "daño": "1d6+2"
+    },
+    "arma_secundaria": {
+      "nombre": "Daga",
+      "ataque": 3,
+      "daño": "1d4+2"
+    },
+    "armadura": {
+      "nombre": "Armadura de cuero",
+      "ca": 8
+    },
+    "escudo": null
+  },
+  "money": {
+    "po": 40,
+    "pp": 0,
+    "pe": 0,
+    "pc": 0
+  },
+  "known_spells": [],
+  "prepared_spells": []
+}

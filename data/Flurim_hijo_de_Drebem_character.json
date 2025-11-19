@@ -1,0 +1,96 @@
+{
+  "name": "Flurim hijo de Drebem",
+  "race": "Enano de las Montañas",
+  "class": "Guerrero",
+  "level": 1,
+  "experience": 0,
+  "alignment": "Legal Bueno",
+  "attributes": {
+    "FUE": 17,
+    "DES": 14,
+    "CON": 18,
+    "INT": 12,
+    "SAB": 13,
+    "CAR": 15
+  },
+  "hp": {
+    "max": 14,
+    "current": 10
+  },
+  "ac": 4,
+  "thac0": 20,
+  "saving_throws": {
+    "Paralización, Veneno o Muerte por Magia": 14,
+    "Varita Mágica": 16,
+    "Petrificación o Transformación": 15,
+    "Soplo de Dragón": 17,
+    "Conjuro, Bastón o Vara": 17
+  },
+  "proficiencies": {
+    "weapon": [
+      "Espada larga",
+      "Arco largo",
+      "Lanza",
+      "Hacha de batalla"
+    ],
+    "non_weapon": [
+      "Cabalgar",
+      "Minería",
+      "Supervivencia"
+    ]
+  },
+  "kit": null,
+  "equipment": {
+    "Espada larga": {
+      "type": "weapon",
+      "damage": "1d8",
+      "quantity": 1
+    },
+    "Escudo": {
+      "type": "shield",
+      "ac_bonus": -1,
+      "quantity": 1
+    },
+    "Cota de Mallas": {
+      "type": "armor",
+      "ac": 5,
+      "quantity": 1
+    },
+    "Mochila": {
+      "type": "other",
+      "quantity": 1
+    },
+    "Odre": {
+      "type": "other",
+      "quantity": 1
+    },
+    "Raciones": {
+      "type": "other",
+      "quantity": 7
+    },
+    "Arco largo": {
+      "type": "weapon",
+      "damage": "1d6",
+      "quantity": 1
+    },
+    "Flechas": {
+      "type": "ammunition",
+      "quantity": 20
+    }
+  },
+  "equipped": {
+    "arma_principal": "Espada larga",
+    "arma_secundaria": null,
+    "armadura": "Cota de Mallas",
+    "escudo": "Escudo"
+  },
+  "money": {
+    "Piezas de Oro": 53,
+    "Piezas de Platino": 0,
+    "Piezas de Plata": 0,
+    "Piezas de Electro": 0,
+    "Piezas de Cobre": 0
+  },
+  "known_spells": [],
+  "prepared_spells": []
+}
